@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" style="padding-right: 20px;">
+<td valign="top" style="padding-right: 40px;">
 
 # 👋 Hi, I'm Joana (but you can call me Ixf)
 
