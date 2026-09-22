@@ -11,12 +11,15 @@ Currently diving deep into **Backend Development**, **System Administration**, a
 😄 Known for being very funny, passionate, and loving memes!  
 📚 I'm **self-taught** and love learning about everything new!  
 
+</td>
 <td valign="top" width="50%">
+
     <img 
-        src="TU_IMAGEN" 
-        alt="Yo divertida"
-        style="width: 100%; height: 100%; object-fit: cover;"
+        src="https://media.discordapp.net/attachments/816190062345060364/1551745553765761024/ChatGPT_Image_22_sept_2026_00_55_14.png?ex=6ab3172a&is=6ab1c5aa&hm=44b9f2e61f11329bf52333e85c1db46d7f1c84b341e6f585efad5ae2ee59503c&=&format=webp&quality=lossless&width=366&height=384" 
+        alt="Yo divertida" 
+        width="100%"
     />
+
 </td>
 </tr>
 </table>
