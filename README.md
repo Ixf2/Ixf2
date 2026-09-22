@@ -14,8 +14,7 @@ Currently diving deep into **Backend Development**, **System Administration**, a
 </td>
 <td valign="top">
 
-<img src="https://preview.redd.it/im-just-being-funny-with-the-lineup-trumpet-v0-mtjtt3shlcvb1.jpeg?width=746&auto=webp&s=9b888376c77ca26f6e90a34d6a130b958e2f569c" alt="Yo divertida" width="200"/>
-
+<img src="[https://preview.redd.it/im-just-being-funny-with-the-lineup-trumpet-v0-mtjtt3shlcvb1.jpeg?width=746&auto=webp&s=9b888376c77ca26f6e90a34d6a130b958e2f569c]" alt="Yo divertida" width="200"/>
 
 </td>
 </tr>
